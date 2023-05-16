@@ -1,0 +1,57 @@
+
+body{
+ background-color: steelblue;
+}h1{
+    width: 150px;
+    margin: 0 auto;
+}
+
+ 
+
+  h1, h3, h4 {
+
+    text-align: center;
+    color: white;
+}
+
+
+ol{
+    width: 500px;
+    margin: 0 auto;
+    font-size: 1.5em;
+    list-style-position: inside;
+    text-align: left;
+
+}
+
+img {
+    
+    width: 20%;
+    display: block;
+    margin: 0 auto;
+}
+
+.secpar{ 
+    font-family: "italic";
+    text-align: center;
+    font-size: 2em;
+    width: 50%; 
+    margin: 0 auto; 
+    
+}
+
+footer{
+
+   
+    width: 80%; 
+    margin: 50px auto;
+    text-align: center;
+    color: white;
+
+}
+
+ 
+ h1:hover{
+    
+    color: black;
+}
