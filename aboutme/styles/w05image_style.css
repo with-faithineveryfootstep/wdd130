@@ -1,0 +1,25 @@
+
+body{
+    margin: 0 auto;
+}
+.main_image{
+    
+    width: 100%;
+    display: block;
+   
+    border: 4px solid steelblue;
+  }
+footer{
+    border: 2px solid blue;
+    background-color: gray;
+  
+
+}
+.footimage{
+    
+    border: 2px solid blue;
+    margin: 40px;
+    
+
+}
+

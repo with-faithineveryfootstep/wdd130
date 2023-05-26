@@ -1,15 +1,15 @@
 
 body {
     border: 2px solid blue;
-
-    
+    margin: 0;
+    font-size: 20px;
   }
 
   nav{
     text-align: center;
     border: 2px solid blue;
     background-color: steelblue;
-    padding: 10px;
+    padding: 50px;
   }
 
   a {
@@ -17,11 +17,13 @@ body {
     font-size: 1.5em;
     color: white;
     margin: 40px;
+    padding: 25px;
   }
   h1 {
     text-align: center;
     border: 2px solid blue; 
     color: steelblue;
+    margin: 50px 0;
   }
   img {
     
@@ -56,6 +58,9 @@ body {
     border: 2px solid blue;
     background-color: white;
     color: steelblue;
+  }
+  footer p{
+    padding: 25px;
   }
   
 
